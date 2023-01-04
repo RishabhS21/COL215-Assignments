@@ -1,0 +1,14 @@
+---
+:id: 145038404
+:submitters:
+- :name: Rishabh Kumar
+  :email: cs1210103@cse.iitd.ac.in
+- :name: Ruchir Singh
+  :email: cs1210119@iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-30 18:23:03.559454000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-30 11:23:03.559454000 Z
+:status: processed
+:score: 24.0
